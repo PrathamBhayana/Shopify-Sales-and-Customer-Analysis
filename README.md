@@ -7,78 +7,78 @@ This project is a comprehensive Power BI dashboard designed to analyze Shopify s
 <b>The Shopify Sales and Customer Analysis Dashboard provides end-to-end visibility into:
 </b>
 
-Sales performance
+- Sales performance
 
-Customer segmentation (new vs. repeat)
+- Customer segmentation (new vs. repeat)
 
-Product category analysis
+- Product category analysis
 
-Payment gateway efficiency
+- Payment gateway efficiency
 
-Regional sales distribution
+- Regional sales distribution
 
-Key customer metrics like Lifetime Value (LTV), Repeat Rate, and Purchase Frequency
+- Key customer metrics like Lifetime Value (LTV), Repeat Rate, and Purchase Frequency
 
 ## 📝 What's Included
 <b> Power BI Dashboard File Interactive visuals covering:</b>
 
-Net sales trends
+- Net sales trends
 
-Daily/hourly sales breakdown
+- Daily/hourly sales breakdown
 
-Product category revenue
+- Product category revenue
 
-Regional performance
+- Regional performance
 
-Mode of payment insights
+- Mode of payment insights
 
-Detailed Insights & Analysis Document (PDF/DOCX):
+- Detailed Insights & Analysis Document (PDF/DOCX):
 
-In-depth interpretation of each dashboard section
+- In-depth interpretation of each dashboard section
 
-Strategic business recommendations
+- Strategic business recommendations
 
-KPI explanations and actionable insights
+- KPI explanations and actionable insights
 
 ## 📈 Key Metrics Tracked
-🔄 Repeat Rate: 46.03%
+- 🔄 <b>Repeat Rate:</b> 46.03%
 
-💰 <b>Net Sales:</b> $4.17M+
+- 💰 <b>Net Sales:</b> $4.17M+
 
-🛒<b>Average Order Value:</b> $562.59
+- 🛒<b>Average Order Value:</b> $562.59
 
-👥 <b>Total Customers:</b> 4,425 (including 2,037 repeat customers)
+- 👥 <b>Total Customers:</b> 4,425 (including 2,037 repeat customers)
 
-📦 <b>Total Quantity Sold:</b> 8,000+
+- 📦 <b>Total Quantity Sold:</b> 8,000+
 
-📍 <b>Top Cities by Sales:</b> New York City, Los Angeles, Houston, Miami, etc.
+- 📍 <b>Top Cities by Sales:</b> New York City, Los Angeles, Houston, Miami, etc.
 
-💳 <b>Top Payment Methods:</b> Shopify Payments, PayPal, Gift Cards
+- 💳 <b>Top Payment Methods:</b> Shopify Payments, PayPal, Gift Cards
 
 ## 🛠️ Tech Stack
-<b>Power BI Desktop –</b> For dashboard design and visual analytics
+- <b>Power BI Desktop –</b> For dashboard design and visual analytics
 
-<b>Microsoft Excel – </b>Data source format
+- <b>Microsoft Excel – </b>Data source format
 
-<b>Microsoft Word –</b> For insights and Analysis documentation
+- <b>Microsoft Word –</b> For insights and Analysis documentation
 
 ## 🚀 Use Cases
-Understand customer purchasing patterns
+- Understand customer purchasing patterns
 
-Identify top-performing regions and product categories
+- Identify top-performing regions and product categories
 
-Optimize marketing strategies based on data
+- Optimize marketing strategies based on data
 
-Improve retention through analysis of repeat customers
+- Improve retention through analysis of repeat customers
 
-Track gateway performance and sales channels
+- Track gateway performance and sales channels
 
 ## 📌 How to Use
-Clone this repository.
+- Clone this repository.
 
-Open the .pbix file in Power BI Desktop.
+- Open the .pbix file in Power BI Desktop.
 
-Optionally, replace the data source with your own Shopify data.
+- Optionally, replace the data source with your own Shopify data.
 
-Read the insights document to understand the business implications of the metrics.
+- Read the insights document to understand the business implications of the metrics.
 
