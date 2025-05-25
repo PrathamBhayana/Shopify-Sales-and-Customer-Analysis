@@ -1,4 +1,6 @@
 # 🛍️ Shopify-sales-and-Customer-Analysis
+![image](https://github.com/user-attachments/assets/3ae2932d-84f9-433b-8a10-98bb3048b755)
+
 This project is a comprehensive Power BI dashboard designed to analyze Shopify sales and customer behavior data. The dashboard provides key insights into transactional performance, customer retention, regional sales distribution, and product-wise revenue. It serves as a powerful tool for e-commerce businesses to make data-driven decisions and optimize marketing strategies.
 
 ## 📊 Project Overview
